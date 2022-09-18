@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SafePlaceApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/safeplace_green</item>
+        <item name="colorPrimaryVariant">@color/safeplace_btngreen</item>
+        <item name="colorOnPrimary">@color/safeplace_btngreen</item>
+
+        <item name="android:statusBarColor">@color/safeplace_bgcolor
+        </item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_splash</item>
+
+    </style>
+
+</resources>
